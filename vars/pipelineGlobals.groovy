@@ -1,7 +1,7 @@
 static final String region(){
     return "us-east-1"
 }
-static final Stage nexusUrl(){
+static final String nexusUrl(){
     return  "nexus.daws.info:8081"
 }
 static final String account_id(){
